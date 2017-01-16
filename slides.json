@@ -1,0 +1,52 @@
+[
+	{
+		"image": "https://raw.githubusercontent.com/templatemonster/tm-wizard-slider/master/images/slide-1.png",
+		"title": "<b>24/7</b> Support.",
+		"desc": "We've got you covered. Monstroid2 theme comes with 24/7 free support wich makes sure you wont stay alone with your questions."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/templatemonster/tm-wizard-slider/master/images/slide-2.png",
+		"title": "Detailed <b>Documentation</b>",
+		"desc": "We provide detailed documentation helping to install and manage Monstroid&sup2; with ease."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/templatemonster/tm-wizard-slider/master/images/slide-3.png",
+		"title": "Power <b>Page Builder</b>",
+		"desc": "Human friendly backend page composer makes it really easy to create versatile page layouts with no coding required."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/templatemonster/tm-wizard-slider/master/images/slide-4.png",
+		"title": "<b>Responsive Grid</b> and <b>FlexBox</b>",
+		"desc": "We used the latest Bootstrap4 grid with flexbox features to make sure your site looks same great at any device and resolution."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/templatemonster/tm-wizard-slider/master/images/slide-5.png",
+		"title": "WordPress <b>Live Customizer</b>",
+		"desc": "Make changes to your website and see instant changes with live customizer tool."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/templatemonster/tm-wizard-slider/master/images/slide-6.png",
+		"title": "GPL 3",
+		"desc": "Feel the freedom of GNU GPL license&#44; the theme does not limit the number of your personal and commercial projects built with it."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/templatemonster/tm-wizard-slider/master/images/slide-7.png",
+		"title": "<b>10 Skins</b> and <b>Counting</b>",
+		"desc": "Monstroid&sup2; comes with 10 skins on board and more coming soon. It's a truly web design swiss knife working for most of your projects."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/templatemonster/tm-wizard-slider/master/images/slide-8.png",
+		"title": "Accent on <b>Functionality</b>",
+		"desc": "We've integrated Monstroid&sup2; with cool free plugins that help to create full functional business website."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/templatemonster/tm-wizard-slider/master/images/slide-9.png",
+		"title": "<b>Woocommerce</b> Ready",
+		"desc": "Create your online shop in few clicks. Monstroid&sup2; supports the last version of Woocommerce out of the box."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/templatemonster/tm-wizard-slider/master/images/slide-10.png",
+		"title": "Live <b>Customizer</b>",
+		"desc": "Customizer options allow to change your website dramatically&#44; make changes and see them taking effect right away!"
+	}
+]
